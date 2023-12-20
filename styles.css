@@ -1,0 +1,225 @@
+html, body {
+        font-family: Arial, sans-serif;
+        background-color: #ffffff;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow: hidden; /* Evita barras de desplazamiento innecesarias */
+    }
+
+
+    .container {
+        width: 100%;
+        height: 100%;
+        display: flex;
+    }
+
+.chat-window {
+    width: 60%;
+    margin: 39px auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    max-height: 90vh; /* Establece un alto máximo del 90% de la altura de la ventana */
+    overflow-y: auto; /* Agrega una barra de desplazamiento vertical cuando sea necesario */
+    flex: 1; /* Toma el 1/3 del ancho disponible */
+    background-color: #fff; /* Cambia esto al color que desees */
+    flex: 1;
+    /* Otros estilos para el chat */
+}
+
+.chat-header {
+    background-color: #0658F6;
+    color: #fff;
+    padding: 18px;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    flex-direction: column; /* Apila los elementos verticalmente */
+}
+
+.user-avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-bottom: 10px; /* Espacio entre la foto de perfil y el nombre */
+}
+
+.user-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; /* Centra el texto horizontalmente */
+}
+
+.user-name {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.user-status {
+    font-size: 19px;
+    color: #f5f5f5;
+}
+
+.chat-messages {
+    padding: 20px;
+    max-height: calc(20cm - 200px);
+    overflow-y: auto;
+}
+
+.chat-input {
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type="text"] {
+    flex-grow: 1;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #0658F6;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    padding: 15px;
+    margin-left: 10px;
+    width: 120px;
+    height: 50px;
+}
+
+.bot-message {
+    background-color: #e5e5e5;
+    border-radius: 10px 10px 10px 0;
+    padding: 10px;
+    margin: 10px;
+    clear: both;
+    float: left;
+}
+
+.user-message {
+    background-color: #0658F6;
+    color: #fff;
+    border-radius: 10px 10px 0 10px;
+    padding: 10px;
+    margin: 10px;
+    clear: both;
+    float: right;
+}
+
+/* Tu CSS existente */
+
+/* Estilos para las barras de opciones */
+/* Estilos para las barras de opciones */
+.options-bar {
+    background-color: #fff;
+    border: 0px solid #ccc;
+    border-radius: 0%;
+    display: flex;
+    padding: 40px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Alinear opciones al principio */
+}
+
+.options-bar-left {
+    left: 0;
+    flex: 1; /* Toma el 1/3 del ancho disponible */
+    background-color: #ffffff; /* Cambia esto al color que desees */
+    /* Otros estilos para el menú izquierdo */
+}
+
+.options-bar-right {
+    right: 0;
+    flex: 1; /* Toma el 1/3 del ancho disponible */
+    background-color: #ffffff; /* Cambia esto al color que desees */
+    /* Otros estilos para el menú derecho */
+}
+
+/* Estilos para las opciones de menú */
+.option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px; /* Espacio entre menús */
+    background-color: #f0f0f0; /* Color de fondo de los menús */
+    padding: 20px; /* Espacio alrededor del menú */
+    border-radius: 5px; /* Bordes redondeados */
+    text-decoration: none; /* Eliminar subrayado predeterminado de los enlaces */
+    transition: background-color 0.3s; /* Transición de color de fondo al pasar el mouse */
+    color: #333; /* Color del texto */
+    border: 1px solid #ccc;
+
+}
+
+.option:hover {
+    background-color: #0658F6; /* Cambia el color de fondo al pasar el mouse */
+    color: #fff; /* Cambia el color del texto al pasar el mouse */
+}
+
+.option img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.company-logo {
+    text-align: center;
+    margin-top: auto; /* Empuja el logo y el nombre hacia abajo */
+}
+
+.company-logo img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.company-logo span {
+    font-weight: bold;
+}
+
+.equipo-vida {
+    margin-top: 10px;
+    color: #777;
+    text-align: center;
+    font-size: 16px;
+}
+
+/* Estilos para las opciones de menú */
+.option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px; /* Espacio entre menús */
+    background-color: #f0f0f0; /* Color de fondo de los menús */
+    padding: 25px; /* Espacio alrededor del menú */
+    border-radius: 5px; /* Bordes redondeados */
+    text-decoration: none; /* Eliminar subrayado predeterminado de los enlaces */
+    transition: background-color 0.3s, color 0.3s; /* Transición de color de fondo y color de texto al pasar el mouse */
+    color: #333; /* Color del texto predeterminado */
+}
+
+.option:hover {
+    background-color: #0658F6; /* Cambia el color de fondo al pasar el mouse */
+    color: #fff; /* Cambia el color del texto al pasar el mouse */
+}
+
+.option img {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+    transition: filter 0.3s; /* Transición del filtro al pasar el mouse */
+}
+
+.option:hover img {
+    filter: invert(100%); /* Invierte los colores de la imagen al pasar el mouse */
+}

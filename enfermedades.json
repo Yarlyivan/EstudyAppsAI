@@ -1,0 +1,1060 @@
+[
+ {
+  "{": "      \"nombre\": \"Gripe\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fiebre",
+  "Column2": " dolor de cabeza",
+  "Column3": " dolor muscular",
+  "Column4": " tos",
+  "Column5": " congestión nasal\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Reposo",
+  "Column2": " hidratación",
+  "Column3": " analgésicos",
+  "Column4": " antivirales (si es necesario)\""
+ },
+ {
+  "{": "      \"descripcion\": \"La gripe es una enfermedad viral contagiosa que afecta principalmente el sistema respiratorio. Suele presentarse con síntomas como fiebre",
+  "Column2": " dolor de cabeza",
+  "Column3": " dolor muscular y tos.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Hipertensión arterial\""
+ },
+ {
+  "{": "      \"sintomas\": \"Presión arterial elevada",
+  "Column2": " dolor de cabeza",
+  "Column3": " visión borrosa",
+  "Column4": " fatiga\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Cambios en el estilo de vida (dieta",
+  "Column2": " ejercicio)",
+  "Column3": " medicamentos antihipertensivos\""
+ },
+ {
+  "{": "      \"descripcion\": \"La hipertensión arterial es una condición en la que la presión de la sangre en las arterias es constantemente elevada. Puede causar problemas de salud graves si no se controla adecuadamente.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Diabetes tipo 2\""
+ },
+ {
+  "{": "      \"sintomas\": \"Aumento de la sed",
+  "Column2": " aumento del apetito",
+  "Column3": " micción frecuente",
+  "Column4": " fatiga\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Dieta balanceada",
+  "Column2": " ejercicio",
+  "Column3": " medicamentos hipoglucemiantes\""
+ },
+ {
+  "{": "      \"descripcion\": \"La diabetes tipo 2 es una enfermedad crónica que afecta la forma en que el cuerpo procesa el azúcar en sangre. Es importante llevar un control adecuado para evitar complicaciones a largo plazo.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Asma\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dificultad para respirar",
+  "Column2": " sibilancias",
+  "Column3": " opresión en el pecho",
+  "Column4": " tos\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Broncodilatadores",
+  "Column2": " corticosteroides",
+  "Column3": " evitar desencadenantes\""
+ },
+ {
+  "{": "      \"descripcion\": \"El asma es una enfermedad respiratoria crónica que causa inflamación y estrechamiento de las vías respiratorias",
+  "Column2": " lo que dificulta la respiración. Se puede controlar con medicamentos y evitando los factores desencadenantes.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Artritis reumatoide\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dolor e inflamación en las articulaciones",
+  "Column2": " rigidez matutina",
+  "Column3": " fatiga\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos antirreumáticos modificadores de la enfermedad",
+  "Column2": " analgésicos",
+  "Column3": " fisioterapia\""
+ },
+ {
+  "{": "      \"descripcion\": \"La artritis reumatoide es una enfermedad autoinmune que afecta las articulaciones y puede causar dolor e inflamación. Se requiere un tratamiento adecuado para controlar los síntomas y prevenir el daño articular.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Cáncer de mama\""
+ },
+ {
+  "{": "      \"sintomas\": \"Bulto en el seno",
+  "Column2": " cambios en la forma o textura del seno",
+  "Column3": " secreción del pezón\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Cirugía",
+  "Column2": " quimioterapia",
+  "Column3": " radioterapia",
+  "Column4": " terapia hormonal\""
+ },
+ {
+  "{": "      \"descripcion\": \"El cáncer de mama es un tipo de cáncer que se forma en las células del seno. El tratamiento depende del estadio y tipo de cáncer",
+  "Column2": " y puede incluir cirugía",
+  "Column3": " quimioterapia",
+  "Column4": " radioterapia y terapia hormonal.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Depresión\""
+ },
+ {
+  "{": "      \"sintomas\": \"Tristeza persistente",
+  "Column2": " pérdida de interés",
+  "Column3": " cambios en el apetito",
+  "Column4": " fatiga\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Terapia psicológica",
+  "Column2": " antidepresivos\""
+ },
+ {
+  "{": "      \"descripcion\": \"La depresión es una enfermedad mental caracterizada por una tristeza persistente y una pérdida de interés en actividades cotidianas. El tratamiento puede incluir terapia psicológica y medicamentos antidepresivos.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Anemia\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fatiga",
+  "Column2": " debilidad",
+  "Column3": " palidez",
+  "Column4": " falta de aire\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Suplementos de hierro",
+  "Column2": " cambios en la dieta\""
+ },
+ {
+  "{": "      \"descripcion\": \"La anemia es una condición en la que el cuerpo no produce suficientes glóbulos rojos o no tiene suficiente hemoglobina. Se puede tratar con suplementos de hierro y ajustes en la dieta.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Hepatitis B\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fatiga",
+  "Column2": " náuseas",
+  "Column3": " fiebre",
+  "Column4": " ictericia (coloración amarillenta de la piel)\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Antivirales",
+  "Column2": " reposo",
+  "Column3": " hidratación\""
+ },
+ {
+  "{": "      \"descripcion\": \"La hepatitis B es una infección viral que afecta el hígado y puede ser aguda o crónica. El tratamiento depende de la gravedad y puede incluir antivirales",
+  "Column2": " reposo y mantenerse bien hidratado.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad de Alzheimer\""
+ },
+ {
+  "{": "      \"sintomas\": \"Pérdida de memoria",
+  "Column2": " confusión",
+  "Column3": " dificultad para comunicarse",
+  "Column4": " cambios en la personalidad\""
+ },
+ {
+  "{": "      \"tratamiento\": \"No tiene cura",
+  "Column2": " se pueden utilizar medicamentos para mejorar los síntomas\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad de Alzheimer es una enfermedad neurodegenerativa que causa problemas de memoria y cognitivos. No tiene cura",
+  "Column2": " pero algunos medicamentos pueden mejorar temporalmente los síntomas.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Esquizofrenia\""
+ },
+ {
+  "{": "      \"sintomas\": \"Alucinaciones",
+  "Column2": " delirios",
+  "Column3": " desorganización del pensamiento",
+  "Column4": " falta de motivación\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Antipsicóticos",
+  "Column2": " terapia psicosocial\""
+ },
+ {
+  "{": "      \"descripcion\": \"La esquizofrenia es un trastorno mental grave que afecta la forma en que una persona piensa",
+  "Column2": " siente y se comporta. Se trata con antipsicóticos y terapia psicosocial.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad de Parkinson\""
+ },
+ {
+  "{": "      \"sintomas\": \"Temblores",
+  "Column2": " rigidez muscular",
+  "Column3": " lentitud de movimientos",
+  "Column4": " dificultad para caminar\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos para controlar los síntomas",
+  "Column2": " terapia física",
+  "Column3": " terapia ocupacional\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad de Parkinson es un trastorno del sistema nervioso que afecta el movimiento. El tratamiento busca controlar los síntomas y mejorar la calidad de vida del paciente.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"HIV\/SIDA\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fiebre",
+  "Column2": " fatiga",
+  "Column3": " sudoración nocturna",
+  "Column4": " pérdida de peso",
+  "Column5": " infecciones recurrentes\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Terapia antirretroviral (TAR)",
+  "Column2": " tratamiento de infecciones oportunistas\""
+ },
+ {
+  "{": "      \"descripcion\": \"El VIH es un virus que ataca el sistema inmunológico",
+  "Column2": " llevando al SIDA si no se trata adecuadamente. El tratamiento con terapia antirretroviral (TAR) ayuda a controlar la infección y prevenir la progresión a SIDA.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Osteoporosis\""
+ },
+ {
+  "{": "      \"sintomas\": \"Debilitamiento de los huesos",
+  "Column2": " fracturas óseas",
+  "Column3": " pérdida de estatura\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Suplementos de calcio y vitamina D",
+  "Column2": " medicamentos antirresortivos",
+  "Column3": " ejercicio\""
+ },
+ {
+  "{": "      \"descripcion\": \"La osteoporosis es una enfermedad que debilita los huesos y aumenta el riesgo de fracturas. Se puede tratar con suplementos de calcio y vitamina D",
+  "Column2": " medicamentos y ejercicio regular.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Epilepsia\""
+ },
+ {
+  "{": "      \"sintomas\": \"Convulsiones",
+  "Column2": " pérdida de conciencia",
+  "Column3": " movimientos involuntarios\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos antiepilépticos",
+  "Column2": " cirugía (en casos selectos)\""
+ },
+ {
+  "{": "      \"descripcion\": \"La epilepsia es un trastorno neurológico que causa convulsiones recurrentes. Se puede controlar con medicamentos antiepilépticos y",
+  "Column2": " en algunos casos",
+  "Column3": " cirugía.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad pulmonar obstructiva crónica (EPOC)\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dificultad para respirar",
+  "Column2": " tos crónica",
+  "Column3": " producción de esputo\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Broncodilatadores",
+  "Column2": " corticosteroides inhalados",
+  "Column3": " oxígeno suplementario\""
+ },
+ {
+  "{": "      \"descripcion\": \"La EPOC es una enfermedad pulmonar crónica que dificulta la respiración debido a la obstrucción del flujo de aire. El tratamiento incluye medicamentos para dilatar las vías respiratorias y",
+  "Column2": " en casos avanzados",
+  "Column3": " oxígeno suplementario.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Endometriosis\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dolor pélvico intenso",
+  "Column2": " sangrado abundante durante la menstruación",
+  "Column3": " infertilidad\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Analgésicos",
+  "Column2": " terapia hormonal",
+  "Column3": " cirugía (en casos selectos)\""
+ },
+ {
+  "{": "      \"descripcion\": \"La endometriosis es una afección en la que el tejido que recubre el útero crece fuera de él",
+  "Column2": " lo que puede causar dolor y problemas de fertilidad. El tratamiento puede incluir analgésicos",
+  "Column3": " terapia hormonal y",
+  "Column4": " en algunos casos",
+  "Column5": " cirugía.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad de Crohn\""
+ },
+ {
+  "{": "      \"sintomas\": \"Diarrea",
+  "Column2": " dolor abdominal",
+  "Column3": " pérdida de peso",
+  "Column4": " fatiga\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos antiinflamatorios",
+  "Column2": " inmunosupresores",
+  "Column3": " cambios en la dieta\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad de Crohn es una enfermedad inflamatoria intestinal que causa síntomas gastrointestinales y puede afectar a todo el tracto digestivo. El tratamiento busca controlar la inflamación y reducir los síntomas.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Esclerosis múltiple\""
+ },
+ {
+  "{": "      \"sintomas\": \"Problemas de equilibrio",
+  "Column2": " debilidad muscular",
+  "Column3": " problemas visuales",
+  "Column4": " fatiga\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos moduladores de la enfermedad",
+  "Column2": " terapia física",
+  "Column3": " terapia ocupacional\""
+ },
+ {
+  "{": "      \"descripcion\": \"La esclerosis múltiple es una enfermedad autoinmune que afecta el sistema nervioso central. El tratamiento busca controlar los síntomas y prevenir la progresión de la enfermedad.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Anorexia nerviosa\""
+ },
+ {
+  "{": "      \"sintomas\": \"Pérdida de peso extrema",
+  "Column2": " miedo a aumentar de peso",
+  "Column3": " distorsión de la imagen corporal\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Terapia psicológica",
+  "Column2": " terapia nutricional",
+  "Column3": " apoyo familiar\""
+ },
+ {
+  "{": "      \"descripcion\": \"La anorexia nerviosa es un trastorno alimentario caracterizado por una obsesión por la delgadez y la restricción extrema de la ingesta de alimentos. El tratamiento incluye terapia psicológica",
+  "Column2": " terapia nutricional y apoyo emocional.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Glaucoma\""
+ },
+ {
+  "{": "      \"sintomas\": \"Visión borrosa",
+  "Column2": " pérdida gradual de la visión periférica",
+  "Column3": " dolor en los ojos\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Gotas para los ojos",
+  "Column2": " cirugía láser",
+  "Column3": " cirugía convencional\""
+ },
+ {
+  "{": "      \"descripcion\": \"El glaucoma es una enfermedad ocular que daña el nervio óptico y puede llevar a la pérdida de la visión. El tratamiento busca reducir la presión ocular y prevenir daños adicionales al nervio óptico.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Insuficiencia cardíaca\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dificultad para respirar",
+  "Column2": " fatiga",
+  "Column3": " hinchazón en piernas y tobillos\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos para mejorar la función cardíaca",
+  "Column2": " cambios en el estilo de vida\""
+ },
+ {
+  "{": "      \"descripcion\": \"La insuficiencia cardíaca es una condición en la que el corazón no puede bombear suficiente sangre para satisfacer las necesidades del cuerpo. El tratamiento busca mejorar la función cardíaca y reducir los síntomas.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad celíaca\""
+ },
+ {
+  "{": "      \"sintomas\": \"Diarrea",
+  "Column2": " pérdida de peso",
+  "Column3": " hinchazón abdominal",
+  "Column4": " erupciones en la piel\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Dieta libre de gluten\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad celíaca es una intolerancia al gluten que causa daño en el intestino delgado. El único tratamiento efectivo es llevar una dieta libre de gluten de por vida.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Fibromialgia\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dolor generalizado",
+  "Column2": " fatiga",
+  "Column3": " problemas de sueño",
+  "Column4": " dificultad para concentrarse\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos para aliviar el dolor",
+  "Column2": " terapia física",
+  "Column3": " terapia cognitivo-conductual\""
+ },
+ {
+  "{": "      \"descripcion\": \"La fibromialgia es una afección que causa dolor muscular generalizado y sensibilidad en todo el cuerpo. El tratamiento busca aliviar el dolor y mejorar la calidad de vida del paciente.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad renal crónica\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fatiga",
+  "Column2": " hinchazón en piernas y tobillos",
+  "Column3": " presión arterial elevada\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Control de la presión arterial",
+  "Column2": " dieta baja en proteínas",
+  "Column3": " diálisis (en casos avanzados)\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad renal crónica es una condición en la que los riñones no pueden filtrar adecuadamente los desechos del cuerpo. El tratamiento incluye el control de la presión arterial y",
+  "Column2": " en casos avanzados",
+  "Column3": " la diálisis o el trasplante renal.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad de Lyme\""
+ },
+ {
+  "{": "      \"sintomas\": \"Erupción cutánea en forma de diana",
+  "Column2": " fiebre",
+  "Column3": " fatiga",
+  "Column4": " dolores musculares\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Antibióticos\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad de Lyme es una infección bacteriana transmitida por garrapatas que puede afectar la piel",
+  "Column2": " las articulaciones y el sistema nervioso. Se trata con antibióticos",
+  "Column3": " y el diagnóstico y tratamiento tempranos son fundamentales para evitar complicaciones a largo plazo.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Colitis ulcerosa\""
+ },
+ {
+  "{": "      \"sintomas\": \"Diarrea con sangre",
+  "Column2": " dolor abdominal",
+  "Column3": " pérdida de peso\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos antiinflamatorios",
+  "Column2": " terapia inmunosupresora",
+  "Column3": " cirugía (en casos selectos)\""
+ },
+ {
+  "{": "      \"descripcion\": \"La colitis ulcerosa es una enfermedad inflamatoria intestinal que afecta el revestimiento del colon. El tratamiento busca reducir la inflamación y mejorar los síntomas",
+  "Column2": " aunque en algunos casos puede requerirse cirugía.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Esofagitis por reflujo\""
+ },
+ {
+  "{": "      \"sintomas\": \"Ardor en el pecho (acidez)",
+  "Column2": " regurgitación ácida",
+  "Column3": " dolor al tragar\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Inhibidores de la bomba de protones",
+  "Column2": " cambios en la dieta",
+  "Column3": " elevación de la cabecera de la cama\""
+ },
+ {
+  "{": "      \"descripcion\": \"La esofagitis por reflujo es una inflamación del esófago debido al reflujo del ácido estomacal. El tratamiento busca reducir la acidez y mejorar los síntomas mediante medicamentos y cambios en el estilo de vida.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad de Kawasaki\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fiebre alta",
+  "Column2": " erupción cutánea",
+  "Column3": " enrojecimiento de los ojos",
+  "Column4": " hinchazón de manos y pies\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Inmunoglobulina intravenosa",
+  "Column2": " aspirina\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad de Kawasaki es una afección que afecta principalmente a niños pequeños y causa inflamación en los vasos sanguíneos. Se trata con inmunoglobulina intravenosa y aspirina para prevenir complicaciones cardíacas.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad del hígado graso no alcohólico (EHGNA)\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fatiga",
+  "Column2": " dolor en el hígado",
+  "Column3": " hinchazón abdominal",
+  "Column4": " pérdida de peso\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Cambio en el estilo de vida (dieta y ejercicio)",
+  "Column2": " medicamentos\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad del hígado graso no alcohólico es una acumulación de grasa en el hígado que no está relacionada con el consumo de alcohol. El tratamiento incluye cambios en el estilo de vida y",
+  "Column2": " en algunos casos",
+  "Column3": " medicamentos para mejorar la salud del hígado.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Estrés postraumático\""
+ },
+ {
+  "{": "      \"sintomas\": \"Pesadillas",
+  "Column2": " flashbacks",
+  "Column3": " evitación de situaciones traumáticas",
+  "Column4": " ansiedad\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Terapia psicológica",
+  "Column2": " medicamentos (en casos selectos)\""
+ },
+ {
+  "{": "      \"descripcion\": \"El trastorno de estrés postraumático es una reacción a un evento traumático que continúa afectando emocionalmente a la persona. El tratamiento puede incluir terapia psicológica y",
+  "Column2": " en algunos casos",
+  "Column3": " medicamentos para controlar los síntomas.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Hiperplasia prostática benigna (HPB)\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dificultad para orinar",
+  "Column2": " micción frecuente",
+  "Column3": " flujo débil de orina\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos para relajar la próstata",
+  "Column2": " cirugía (en casos selectos)\""
+ },
+ {
+  "{": "      \"descripcion\": \"La hiperplasia prostática benigna es un agrandamiento no canceroso de la próstata que puede causar problemas urinarios. El tratamiento busca mejorar el flujo de orina mediante medicamentos y",
+  "Column2": " en algunos casos",
+  "Column3": " cirugía.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Lupus eritematoso sistémico (LES)\""
+ },
+ {
+  "{": "      \"sintomas\": \"Erupción en forma de mariposa en la cara",
+  "Column2": " dolor en articulaciones",
+  "Column3": " fatiga\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos inmunosupresores",
+  "Column2": " antiinflamatorios",
+  "Column3": " protección solar\""
+ },
+ {
+  "{": "      \"descripcion\": \"El lupus es una enfermedad autoinmune que puede afectar múltiples órganos y sistemas del cuerpo. El tratamiento busca reducir la actividad del sistema inmunológico y aliviar los síntomas.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Celiaquía\""
+ },
+ {
+  "{": "      \"sintomas\": \"Diarrea",
+  "Column2": " pérdida de peso",
+  "Column3": " hinchazón abdominal",
+  "Column4": " erupciones en la piel\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Dieta libre de gluten\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad celíaca es una intolerancia al gluten que causa daño en el intestino delgado. El único tratamiento efectivo es llevar una dieta libre de gluten de por vida.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Fibromialgia\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dolor generalizado",
+  "Column2": " fatiga",
+  "Column3": " problemas de sueño",
+  "Column4": " dificultad para concentrarse\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos para aliviar el dolor",
+  "Column2": " terapia física",
+  "Column3": " terapia cognitivo-conductual\""
+ },
+ {
+  "{": "      \"descripcion\": \"La fibromialgia es una afección que causa dolor muscular generalizado y sensibilidad en todo el cuerpo. El tratamiento busca aliviar el dolor y mejorar la calidad de vida del paciente.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad renal crónica\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fatiga",
+  "Column2": " hinchazón en piernas y tobillos",
+  "Column3": " presión arterial elevada\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Control de la presión arterial",
+  "Column2": " dieta baja en proteínas",
+  "Column3": " diálisis (en casos avanzados)\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad renal crónica es una condición en la que los riñones no pueden filtrar adecuadamente los desechos del cuerpo. El tratamiento incluye el control de la presión arterial y",
+  "Column2": " en casos avanzados",
+  "Column3": " la diálisis o el trasplante renal.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad de Lyme\""
+ },
+ {
+  "{": "      \"sintomas\": \"Erupción cutánea en forma de diana",
+  "Column2": " fiebre",
+  "Column3": " fatiga",
+  "Column4": " dolores musculares\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Antibióticos\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad de Lyme es una infección bacteriana transmitida por garrapatas que puede afectar la piel",
+  "Column2": " las articulaciones y el sistema nervioso. Se trata con antibióticos",
+  "Column3": " y el diagnóstico y tratamiento tempranos son fundamentales para evitar complicaciones a largo plazo.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Colitis ulcerosa\""
+ },
+ {
+  "{": "      \"sintomas\": \"Diarrea con sangre",
+  "Column2": " dolor abdominal",
+  "Column3": " pérdida de peso\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos antiinflamatorios",
+  "Column2": " terapia inmunosupresora",
+  "Column3": " cirugía (en casos selectos)\""
+ },
+ {
+  "{": "      \"descripcion\": \"La colitis ulcerosa es una enfermedad inflamatoria intestinal que afecta el revestimiento del colon. El tratamiento busca reducir la inflamación y mejorar los síntomas",
+  "Column2": " aunque en algunos casos puede requerirse cirugía.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Esofagitis por reflujo\""
+ },
+ {
+  "{": "      \"sintomas\": \"Ardor en el pecho (acidez)",
+  "Column2": " regurgitación ácida",
+  "Column3": " dolor al tragar\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Inhibidores de la bomba de protones",
+  "Column2": " cambios en la dieta",
+  "Column3": " elevación de la cabecera de la cama\""
+ },
+ {
+  "{": "      \"descripcion\": \"La esofagitis por reflujo es una inflamación del esófago debido al reflujo del ácido estomacal. El tratamiento busca reducir la acidez y mejorar los síntomas mediante medicamentos y cambios en el estilo de vida.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad de Kawasaki\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fiebre alta",
+  "Column2": " erupción cutánea",
+  "Column3": " enrojecimiento de los ojos",
+  "Column4": " hinchazón de manos y pies\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Inmunoglobulina intravenosa",
+  "Column2": " aspirina\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad de Kawasaki es una afección que afecta principalmente a niños pequeños y causa inflamación en los vasos sanguíneos. Se trata con inmunoglobulina intravenosa y aspirina para prevenir complicaciones cardíacas.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Enfermedad del hígado graso no alcohólico (EHGNA)\""
+ },
+ {
+  "{": "      \"sintomas\": \"Fatiga",
+  "Column2": " dolor en el hígado",
+  "Column3": " hinchazón abdominal",
+  "Column4": " pérdida de peso\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Cambio en el estilo de vida (dieta y ejercicio)",
+  "Column2": " medicamentos\""
+ },
+ {
+  "{": "      \"descripcion\": \"La enfermedad del hígado graso no alcohólico es una acumulación de grasa en el hígado que no está relacionada con el consumo de alcohol. El tratamiento incluye cambios en el estilo de vida y",
+  "Column2": " en algunos casos",
+  "Column3": " medicamentos para mejorar la salud del hígado.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Estrés postraumático\""
+ },
+ {
+  "{": "      \"sintomas\": \"Pesadillas",
+  "Column2": " flashbacks",
+  "Column3": " evitación de situaciones traumáticas",
+  "Column4": " ansiedad\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Terapia psicológica",
+  "Column2": " medicamentos (en casos selectos)\""
+ },
+ {
+  "{": "      \"descripcion\": \"El trastorno de estrés postraumático es una reacción a un evento traumático que continúa afectando emocionalmente a la persona. El tratamiento puede incluir terapia psicológica y",
+  "Column2": " en algunos casos",
+  "Column3": " medicamentos para controlar los síntomas.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Hiperplasia prostática benigna (HPB)\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dificultad para orinar",
+  "Column2": " micción frecuente",
+  "Column3": " flujo débil de orina\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos para relajar la próstata",
+  "Column2": " cirugía (en casos selectos)\""
+ },
+ {
+  "{": "      \"descripcion\": \"La hiperplasia prostática benigna es un agrandamiento no canceroso de la próstata que puede causar problemas urinarios. El tratamiento busca mejorar el flujo de orina mediante medicamentos y",
+  "Column2": " en algunos casos",
+  "Column3": " cirugía.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Lupus eritematoso sistémico (LES)\""
+ },
+ {
+  "{": "      \"sintomas\": \"Erupción en forma de mariposa en la cara",
+  "Column2": " dolor en articulaciones",
+  "Column3": " fatiga\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Medicamentos inmunosupresores",
+  "Column2": " antiinflamatorios",
+  "Column3": " protección solar\""
+ },
+ {
+  "{": "      \"descripcion\": \"El lupus es una enfermedad autoinmune que puede afectar múltiples órganos y sistemas del cuerpo. El tratamiento busca reducir la actividad del sistema inmunológico y aliviar los síntomas.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Migraña\""
+ },
+ {
+  "{": "      \"sintomas\": \"Dolor de cabeza pulsátil",
+  "Column2": " náuseas",
+  "Column3": " sensibilidad a la luz y al ruido\""
+ },
+ {
+  "{": "      \"tratamiento\": \"Analgésicos",
+  "Column2": " medicamentos específicos para migrañas",
+  "Column3": " evitación de desencadenantes\""
+ },
+ {
+  "{": "      \"descripcion\": \"La migraña es un tipo de dolor de cabeza intenso y recurrente que puede estar acompañado de náuseas y sensibilidad a la luz y al ruido. El tratamiento puede incluir analgésicos",
+  "Column2": " medicamentos específicos para migrañas y evitar los factores desencadenantes.\""
+ },
+ {
+  "{": "    }"
+ },
+ {
+  "{": "    {"
+ },
+ {
+  "{": "      \"nombre\": \"Esclerosis lateral amiotrófica (ELA)\""
+ },
+ {
+  "{": "      \"sintomas\": \"Debilidad muscular progresiva",
+  "Column2": " espasmos musculares",
+  "Column3": " dificultad para hablar y tragar\""
+ },
+ {
+  "{": "      \"tratamiento\": \"No tiene cura",
+  "Column2": " se pueden usar medicamentos para controlar los síntomas\""
+ },
+ {
+  "{": "      \"descripcion\": \"La esclerosis lateral amiotrófica es una enfermedad neuromuscular progresiva que afecta las células nerviosas en el cerebro y la médula espinal. Actualmente no tiene cura",
+  "Column2": " pero existen medicamentos para aliviar los síntomas y mejorar la calidad de vida del paciente.\""
+ },
+ {
+  "{": "    }"
+ }
+]
